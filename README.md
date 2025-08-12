@@ -7,6 +7,7 @@ Jednostavan Python program za pregled i upravljanje datotekama putem grafičkog 
 - Otvaranje datoteka izravno iz aplikacije
 - Brzo pretraživanje
 - Prikaz slika i dokumenata
+- Kliknut na Datoteka, tu su opcije stvori novo i izađi
 
 ## 🖼️ Izgled aplikacije
 ![Screenshot aplikacije](image.png)
